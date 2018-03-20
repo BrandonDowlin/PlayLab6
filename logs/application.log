@@ -1,0 +1,24 @@
+2018-03-20 18:28:19,179 [INFO] from application in play-dev-mode-akka.actor.default-dispatcher-4 - Creating Pool for datasource 'default'
+2018-03-20 18:28:19,366 [INFO] from play.api.db.DefaultDBApi in play-dev-mode-akka.actor.default-dispatcher-4 - Database [default] connected at jdbc:h2:file:./data/productsDB
+2018-03-20 18:28:20,209 [WARN] from org.hibernate.validator.messageinterpolation.ParameterMessageInterpolator in play-dev-mode-akka.actor.default-dispatcher-4 - HV000184: ParameterMessageInterpolator has been chosen, EL interpolation will not be supported
+2018-03-20 18:28:20,342 [INFO] from play.api.http.EnabledFilters in play-dev-mode-akka.actor.default-dispatcher-4 - Enabled Filters (see <https://www.playframework.com/documentation/latest/Filters>):
+
+    play.filters.csrf.CSRFFilter
+    play.filters.headers.SecurityHeadersFilter
+    play.filters.hosts.AllowedHostsFilter
+
+2018-03-20 18:28:20,345 [INFO] from play.api.Play in play-dev-mode-akka.actor.default-dispatcher-4 - Application started (Dev)
+2018-03-20 18:28:44,992 [WARN] from application in application-akka.actor.default-dispatcher-2 - The "validate" method in class "models.users.Login" is deprecated since Play 2.6. To migrate to class-level constraints see https://www.playframework.com/documentation/2.6.x/Migration26#java-form-changes and https://www.playframework.com/documentation/2.6.x/JavaForms#Advanced-validation
+2018-03-20 18:29:32,538 [INFO] from application in application-akka.actor.default-dispatcher-11 - Shutting down connection pool.
+2018-03-20 18:29:32,631 [INFO] from application in play-dev-mode-akka.actor.default-dispatcher-70 - Creating Pool for datasource 'default'
+2018-03-20 18:29:32,644 [INFO] from play.api.db.DefaultDBApi in play-dev-mode-akka.actor.default-dispatcher-70 - Database [default] connected at jdbc:h2:file:./data/productsDB
+2018-03-20 18:29:32,762 [WARN] from org.hibernate.validator.messageinterpolation.ParameterMessageInterpolator in play-dev-mode-akka.actor.default-dispatcher-70 - HV000184: ParameterMessageInterpolator has been chosen, EL interpolation will not be supported
+2018-03-20 18:29:32,794 [INFO] from play.api.http.EnabledFilters in play-dev-mode-akka.actor.default-dispatcher-70 - Enabled Filters (see <https://www.playframework.com/documentation/latest/Filters>):
+
+    play.filters.csrf.CSRFFilter
+    play.filters.headers.SecurityHeadersFilter
+    play.filters.hosts.AllowedHostsFilter
+
+2018-03-20 18:29:32,794 [INFO] from play.api.Play in play-dev-mode-akka.actor.default-dispatcher-70 - Application started (Dev)
+2018-03-20 18:29:57,176 [INFO] from play.core.server.AkkaHttpServer in pool-6-thread-4 - Stopping server...
+2018-03-20 18:29:57,183 [INFO] from application in application-akka.actor.default-dispatcher-2 - Shutting down connection pool.
